@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistentConfig">
+    <option name="historyConfigList">
+      <map>
+        <entry key="course">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="CourseMapper" />
+              <option name="daoPackage" value="com.woniuxy.mapper" />
+              <option name="daoPostfix" value="Mapper" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="Course" />
+              <option name="modelPackage" value="com.woniuxy.entity" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="course" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="CId" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="course" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="com.woniuxy.mapper" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="initConfig">
+      <map>
+        <entry key="initConfig">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoPackage" value="com.woniuxy.mapper" />
+              <option name="daoPostfix" value="Mapper" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$" />
+              <option name="modelPackage" value="com.woniuxy.entity" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$" />
+              <option name="mysql_8" value="true" />
+              <option name="name" value="initConfig" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlPackage" value="com.woniuxy.mapper" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$" />
+            </Config>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="users">
+      <map>
+        <entry key="jdbc:mysql://localhost:3306">
+          <value>
+            <User>
+              <option name="username" value="root" />
+            </User>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
